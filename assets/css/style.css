@@ -1,0 +1,29 @@
+body {
+  font-family:'Times New Roman', Times, serif;
+}
+.lesson {
+    width: 200px;
+    height: 100px;
+  }
+  
+.section-blue {
+  color: orange;
+  background-color: blue;
+
+}
+  
+.container {
+  color: white;
+  background-color: black;
+}
+
+#section-1 {
+  /* Sets font color*/ 
+  color: yellow;
+  /* Sets Background color */ 
+  background-color: purple;
+}
+
+#section-6 {
+
+}
